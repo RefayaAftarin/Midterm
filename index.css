@@ -1,12 +1,14 @@
-.topnav {
+li {
+    display: inline;
+}
+.ul {
     background-color: #f1adadef;
-    overflow: hidden;
-  }
-.topnav a:hover {
+}
+.ul a:hover {
     background-color: #706565be;
     color: black;
 }
-.topnav a.active {
+.ul a.active {
     background-color: #6b040b;
     color: white;
 }
