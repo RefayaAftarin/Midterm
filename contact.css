@@ -1,0 +1,18 @@
+li {
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    background-color: #f1adadef;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+ul a:hover {
+    background-color: #706565be;
+    color: black;
+}
+ul a.active {
+    background-color: #6b040b;
+    color: white;
+}
