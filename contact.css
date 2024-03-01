@@ -12,3 +12,11 @@ ul a:hover {
     background-color: #706565be;
     color: black;
 }
+body{
+    background-color: beige;
+    font-family: "Montserrat", sans-serif;
+}
+h1{
+    color: rgb(127, 6, 30);
+    font-family: "Kanit", sans-serif;
+}
