@@ -12,10 +12,7 @@ ul a:hover {
     background-color: #706565be;
     color: black;
 }
-ul a.active {
-    background-color: #6b040b;
-    color: white;
-}
+
 body{
         background-color: beige;
         font-family: "Montserrat", sans-serif;
@@ -23,4 +20,16 @@ body{
 h1{
         color: rgb(127, 6, 30);
         font-family: "Kanit", sans-serif;
+}
+.flex1 {
+    display: flex;
+    flex-direction: row;
+}
+.flex2 {
+    display: flex;
+    flex-direction: row;
+}
+.flex3 {
+    display: flex;
+    flex-direction: row;
 }

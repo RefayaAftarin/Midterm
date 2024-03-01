@@ -1,5 +1,6 @@
 li {
     display: inline;
+    height: 40px;
 }
 ul {
     list-style-type: none;
